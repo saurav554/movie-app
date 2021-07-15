@@ -1,0 +1,23 @@
+body {
+  display: auto;
+  /* background-image: linear-gradient(#E4C4F9,#B7F4C9,#F4F8F9 ); */
+
+}
+h1,h2 {
+  font-display: bold;
+}
+.btn:hover{
+  border-radius: 15px;
+  background-color: burlywood;
+  border: 2px solid brown;
+}
+.form-control:hover{
+  border-radius: 15px;
+  background-color: rgb(212, 196, 206);
+  border: 2px solid rgb(12, 26, 23);
+  text-decoration: block;
+
+}
+.card:hover{
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
